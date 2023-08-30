@@ -10,7 +10,7 @@
   ##
 
 ![a](https://github-readme-stats.vercel.app/api?username=AleeGarcia&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleeGarcia&layout=donut-vertical)
+
  
  
 <div> 
