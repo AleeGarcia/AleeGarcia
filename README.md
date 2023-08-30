@@ -9,7 +9,7 @@
   
   ##
 
-![a](https://github-readme-stats.vercel.app/api?username=AleeGarcia&show_icons=true&theme=gruvbox)
+![a](https://github-readme-stats.vercel.app/api?username=AleeGarcia&show_icons=true&theme=radical)
 
 
  
