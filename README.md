@@ -9,7 +9,7 @@
   
   ##
 
-![&hide=stars,commits,prs,issues,contribs](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![a](https://github-readme-stats.vercel.app/api?username=AleeGarcia&show_icons=true&theme=radical)
 
 
  
