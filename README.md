@@ -12,7 +12,8 @@
 ![a](https://github-readme-stats.vercel.app/api?username=AleeGarcia&show_icons=true&theme=tokyonight)
 
 <br/>
-  <a href="https://github.com/AleeGarcia/AleeGarcia.git"><img alt="Tauz Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleeGarcia&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript" /></a>
+  <a href="https://github.com/AleeGarcia/AleeGarcia.git"><img alt="Alee Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=AleeGarcia&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/AleeGarcia/AleeGarcia.git"><img alt="Alee Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleeGarcia&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript" /></a>
   <br/>
  
 <div> 
