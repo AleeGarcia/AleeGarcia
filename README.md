@@ -9,8 +9,8 @@
   
   ##
 
-
-![a](https://github-readme-stats.vercel.app/api/top-langs/?username=AleeGarcia&layout=compact&theme=tokyonight)
+![a](https://github-readme-stats.vercel.app/api?username=AleeGarcia&show_icons=true&theme=tokyonight)
+![a](https://github-readme-stats.vercel.app/api/top-langs/?username=AleeGarcia&layout=compact)
 
  
  
